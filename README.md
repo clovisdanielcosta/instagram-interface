@@ -23,8 +23,8 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
 
 <p align="center">
   <a href="#cloud-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-instalation">Instalation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-installation">Instalation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-learning">Learning</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#small_orange_diamond-sharing">Sharing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#small_orange_diamond-customizing">Customizing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -41,7 +41,7 @@ Was used GitHub to publish this page and you can see it by click on the link bel
 
   - [https://clovisdanielcosta.github.io/instagram-interface/](https://clovisdanielcosta.github.io/instagram-interface/)
 
-## :rocket: Tecnologies
+## :rocket: Technologies
 
 To build this project the follow technologies were used:
 
@@ -49,7 +49,7 @@ To build this project the follow technologies were used:
   - [Css3](http://www.linhadecodigo.com.br/artigo/3566/introducao-as-novidades-do-css3.aspx)
   - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## :computer: Instalation
+## :computer: Installation
 
 Just clone this repository in the folder that you want and run index.html on browser:
 
