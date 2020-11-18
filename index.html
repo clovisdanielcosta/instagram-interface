@@ -3,14 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script type="text/javascript" src="./main.js"></script>
+    <link rel="stylesheet" href="./style.css">
     <title>Instagram</title>
 </head>
-<body>
+
+<body onload="carousel()">
+
     <div class="instagram-wrapper">
         <div class="instagram-phone">
-            <img src="./img/instagram-cell-phone.png" alt="Celular">
+           <!--- <img src="./img/insta0.png" alt="Celular"> --> 
+           <div class="w3-content w3-section carousel-fade" style="max-width:500px">
+
+            <img class="mySlides" src="./img/insta01.png">
+            <img class="mySlides" src="./img/insta02.png">
+            <img class="mySlides" src="./img/insta03.png">
+            <img class="mySlides" src="./img/insta04.png">
+            <img class="mySlides" src="./img/insta05.png">
+    
+        </div>
         </div>
         <div class="instagram-continue">
+            <div class="group">
+                <img src="./img/instagram-logo.png" alt="instagram logo">
+                <div class="profile-photo">
+                    <img src="./img/instagram-photo.png" alt="foto do perfil">
+                </div>
+                <a href="#" class="instagram-login">Continue como clovisdaniel</a>
+                <a href="#" class="instagram-logout">Remover conta</a>
+            </div>
+
+            <div class="group">
+                <p class="not-account">Não é clovisdaniel</p>
+                <p class="not-account">
+                    <span class="link-blue">Alternar contas</span>
+                        ou
+                    <span class="link-blue">Inscreva-se</span>
+                </p>
+            </div>
+
+            <div class="get-the-app">
+                <p class="get-app">Baixe o aplicativo</p>
+                <div class="download">
+                    
+                    <a href="https://apps.apple.com/br/developer/instagram-inc/id389801255" class="app-download"></a>
+                    <a href="https://play.google.com/store/apps/details?id=com.instagram.android&hl=pt_BR&gl=US" class="app-download"></a>
+                    
+                </div>
+            </div>
 
         </div>
     </div>
