@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-Bootcamp NLW-1 da Rocketseat
+Bootcamp everis Fullstack Developer by Digital Innovation One
 </h3>
 
 <p align="center">
