@@ -37,9 +37,9 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
 
 ## :cloud: Deploy
   
-Was used GitHub to publish this page and you can see it by click on the link below:
+Was used Heroku to publish this page and you can see it by click on the link below:
 
-  - [https://clovisdanielcosta.github.io/instagram-interface/](https://clovisdanielcosta.github.io/instagram-interface/)
+  - [https://instagram-interface.herokuapp.com/](https://instagram-interface.herokuapp.com/)
 
 ## :rocket: Technologies
 
