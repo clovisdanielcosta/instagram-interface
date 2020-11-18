@@ -27,8 +27,8 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
   <a href="#computer-instalation">Instalation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-learning">Learning</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#small_orange_diamond-sharing">Sharing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#small_orange_diamond-customizando">Customizing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#small_orange_diamond-licença">License</a>
+  <a href="#small_orange_diamond-customizing">Customizing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#small_orange_diamond-license">License</a>
 </p>
 
 <p align="center">
@@ -39,40 +39,41 @@ This repository was created as part of bootcamp "everis FullStack Developer" by 
   
 Was used GitHub to publish this page and you can see it by click on the link below:
 
-- [https://clovisdanielcosta.github.io/instagram-interface/](https://clovisdanielcosta.github.io/instagram-interface/)
+  - [https://clovisdanielcosta.github.io/instagram-interface/](https://clovisdanielcosta.github.io/instagram-interface/)
 
 ## :rocket: Tecnologies
 
 To build this project the follow technologies were used:
 
-- [Html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-- [Css3](http://www.linhadecodigo.com.br/artigo/3566/introducao-as-novidades-do-css3.aspx)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  - [Html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+  - [Css3](http://www.linhadecodigo.com.br/artigo/3566/introducao-as-novidades-do-css3.aspx)
+  - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## :computer: Instalation
 
-1. Just clone this repository in the folder that you want and run index.html on browser:
+Just clone this repository in the folder that you want and run index.html on browser:
+
   `$ git clone https://github.com/clovisdanielcosta/instragram-interface.git`
 
 ## :books: Learning
 
-- Better understanding of justify-content and align-itens. 
-- Flex-direction can invert the properties above. 
-- Over-flow: hidden to make invisible any piece of image witch was not rounded by border-radius.
-- Better understanding of nth:child to use backgroung-image.
-- Little bit more about media queries.
+  - Better understanding of justify-content and align-itens. 
+  - Flex-direction can invert the properties above. 
+  - Over-flow: hidden to make invisible any piece of image witch was not rounded by border-radius.
+  - Better understanding of nth:child to use backgroung-image.
+  - Little bit more about media queries.
 
 ## :small_orange_diamond: Sharing
 
 To learn about use of slides and carousel you can reach the link below:
 
-[W3Schools - How to create a slide show](https://www.w3schools.com/howto/howto_js_slideshow.asp)
+  [W3Schools - How to create a slide show](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 
 ## :small_orange_diamond: Customizing
 
-1. Use of different images and slide show to look even more like Instagram. 
-2. Use of jJavascript to run the slide show automatically.
-3. Use font Calibri.
+  1. Use of different images and slide show to look even more like Instagram. 
+  2. Use of jJavascript to run the slide show automatically.
+  3. Use font Calibri.
 
 ## :small_orange_diamond: License
 
