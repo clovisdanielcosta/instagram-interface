@@ -59,7 +59,7 @@ Just clone this repository in the folder that you want and run index.html on bro
 
   - Better understanding of justify-content and align-itens. 
   - Flex-direction can invert the properties above. 
-  - Over-flow: hidden to make invisible any piece of image witch was not rounded by border-radius.
+  - Over-flow: hidden to make invisible any piece of image wich was not rounded by border-radius.
   - Better understanding of nth:child to use backgroung-image.
   - Little bit more about media queries.
 
