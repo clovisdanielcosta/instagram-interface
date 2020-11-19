@@ -82,6 +82,6 @@ The images in this project were maded by repo's owner or taken from another repo
 
 ## :small_orange_diamond: Thanks
 
-I wish to say thanks to <b>Digital Innovation One</b> and <b>everis</b> for make this bootcamp possible. Special thanks to Gabriela Pinheiro by skillfully teach in this course. Thank you very much. You are doeing a great job. 
+I wish to say thanks to <b>Digital Innovation One</b> and <b>everis</b> for make this bootcamp possible. Special thanks to Gabriela Pinheiro for skillfully teaching in this course. Thank you very much. You are doeing a great job. 
 
 Well done! :clap: :clap:
