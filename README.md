@@ -57,10 +57,10 @@ Just clone this repository in the folder that you want and run index.html on bro
 
 ## :books: Learning
 
-  - Better understanding of justify-content and align-itens. 
+  - Better understanding of justify-content and align-items. 
   - Flex-direction can invert the properties above. 
-  - Over-flow: hidden to make invisible any piece of image wich was not rounded by border-radius.
-  - Better understanding of nth:child to use backgroung-image.
+  - Over-flow: hidden to make invisible any piece of image which was not rounded by border-radius.
+  - Better understanding of nth:child to use background-image.
   - Little bit more about media queries.
 
 ## :small_orange_diamond: Sharing
@@ -77,11 +77,11 @@ To learn about use of slides and carousel you can reach the link below:
 
 ## :small_orange_diamond: License
 
-This project is undet MIT license. Open file [LICENSE](LICENSE.md) to details. 
-The images in this project were maded by repo's owner or taken from another repo in the web with the right authorization of use.
+This project is under MIT license. Open file [LICENSE](LICENSE.md) to details. 
+The images in this project were made by repo's owner or taken from another repo in the web with the right authorization of use.
 
 ## :small_orange_diamond: Thanks
 
-I wish to say thanks to <b>Digital Innovation One</b> and <b>everis</b> for make this bootcamp possible. Special thanks to Gabriela Pinheiro by skillfully teach in this course. Thank you very much. You are doeing a great job. 
+I wish to say thanks to <b>Digital Innovation One</b> and <b>everis</b> for make this bootcamp possible. Special thanks to Gabriela Pinheiro by skillfully teach in this course. Thank you very much. You are doing a great job. 
 
 Well done! :clap: :clap:
