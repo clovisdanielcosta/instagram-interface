@@ -1,4 +1,3 @@
-
 <h1 align="center">
 :small_red_triangle_down: Recreating the Instagram Interface
 </h1>
